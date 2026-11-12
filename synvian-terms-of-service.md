@@ -1,7 +1,7 @@
 # Synvian Terms of Service
 
-**Provider:** Intelligence Hut Private Limited ("Intelligence Hut", "we", "us")
-**Product:** Synvian, the clinic and practice management platform at synvian.ai
+**Provider:** Intelligence Hut Private Limited ("Intelligence Hut", "we", "us")  
+**Product:** Synvian, the clinic and practice management platform at synvian.ai  
 **Last updated:** [DATE]
 
 These Terms govern access to and use of Synvian. By creating an account, signing in, or using

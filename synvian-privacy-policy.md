@@ -1,7 +1,7 @@
 # Synvian Privacy Policy
 
-**Operator:** Intelligence Hut Private Limited ("Intelligence Hut", "we", "us")
-**Product:** Synvian, the clinic and practice management platform at synvian.ai
+**Operator:** Intelligence Hut Private Limited ("Intelligence Hut", "we", "us")  
+**Product:** Synvian, the clinic and practice management platform at synvian.ai  
 **Last updated:** [DATE]
 
 This policy explains what personal information we collect through the Synvian website and
